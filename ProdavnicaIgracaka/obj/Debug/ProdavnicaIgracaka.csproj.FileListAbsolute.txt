@@ -1,0 +1,1038 @@
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll.config
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.pdb
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.exe
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.exe.config
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.rsp
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.exe
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.exe.config
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.rsp
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.AppContext.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Console.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.exe
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.exe.config
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.rsp
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Antlr3.Runtime.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Newtonsoft.Json.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Owin.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Optimization.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Providers.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\WebGrease.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Optimization.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Newtonsoft.Json.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Antlr3.Runtime.pdb
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Providers.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csprojAssemblyReference.cache
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CoreCompileInputs.cache
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CopyComplete
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.dll
+C:\Users\Jasmina\Desktop\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.pdb
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll.config
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.pdb
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.exe
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.exe.config
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.rsp
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.exe
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.exe.config
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.rsp
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.AppContext.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Collections.Immutable.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Console.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Reflection.Metadata.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.AccessControl.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Claims.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.ValueTuple.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.exe
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.exe.config
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.rsp
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe.config
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Antlr3.Runtime.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\AspNet.ScriptManager.bootstrap.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\AspNet.ScriptManager.jQuery.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Web.Infrastructure.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Newtonsoft.Json.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Owin.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Optimization.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Providers.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\WebGrease.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Optimization.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Newtonsoft.Json.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Antlr3.Runtime.pdb
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Providers.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csprojAssemblyReference.cache
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CoreCompileInputs.cache
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CopyComplete
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.dll
+E:\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.pdb
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll.config
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.pdb
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.exe
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.exe.config
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.rsp
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.exe
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.exe.config
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.rsp
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.AppContext.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Console.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.AccessControl.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Claims.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.ValueTuple.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.exe
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.exe.config
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.rsp
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Antlr3.Runtime.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\AspNet.ScriptManager.bootstrap.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\AspNet.ScriptManager.jQuery.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Newtonsoft.Json.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Owin.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Optimization.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Providers.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\WebGrease.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Optimization.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Newtonsoft.Json.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Antlr3.Runtime.pdb
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Providers.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csprojAssemblyReference.cache
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CoreCompileInputs.cache
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CopyComplete
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.dll
+E:\ASP NET\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.pdb
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll.config
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.pdb
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.exe
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.exe.config
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.rsp
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.exe
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.exe.config
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.rsp
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.AppContext.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Collections.Immutable.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Console.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Reflection.Metadata.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.AccessControl.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Claims.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.ValueTuple.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.exe
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.exe.config
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.rsp
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe.config
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Antlr3.Runtime.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\AspNet.ScriptManager.bootstrap.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\AspNet.ScriptManager.jQuery.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.WebForms.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Web.Infrastructure.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Newtonsoft.Json.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Owin.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Optimization.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Providers.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\WebGrease.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Optimization.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Newtonsoft.Json.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Antlr3.Runtime.pdb
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Providers.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csprojAssemblyReference.cache
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CoreCompileInputs.cache
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CopyComplete
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.dll
+F:\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.pdb
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll.config
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.pdb
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.exe
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.exe.config
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csc.rsp
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.exe
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.exe.config
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\csi.rsp
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.AppContext.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Collections.Immutable.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Console.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Reflection.Metadata.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.AccessControl.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Claims.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Security.Principal.Windows.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.ValueTuple.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.exe
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.exe.config
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\vbc.rsp
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe.config
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Antlr3.Runtime.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\AspNet.ScriptManager.bootstrap.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\AspNet.ScriptManager.jQuery.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.WebForms.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Web.Infrastructure.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Newtonsoft.Json.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Owin.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Optimization.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Providers.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\WebGrease.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Optimization.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Newtonsoft.Json.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Antlr3.Runtime.pdb
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\System.Web.Providers.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csprojAssemblyReference.cache
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CoreCompileInputs.cache
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CopyComplete
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.dll
+D:\OBUKA\ProdavnicaIgracaka\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.pdb
+D:\ProdavnicaIgracaka - 19.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csprojAssemblyReference.cache
+D:\ProdavnicaIgracaka - 19.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CoreCompileInputs.cache
+D:\ProdavnicaIgracaka - 19.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.dll
+D:\ProdavnicaIgracaka - 19.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.pdb
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csc.exe
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Collections.Immutable.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll.config
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.pdb
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csc.exe.config
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csc.rsp
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csi.exe
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csi.exe.config
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csi.rsp
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.AppContext.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Console.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.AccessControl.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Claims.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.ValueTuple.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\vbc.exe
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\vbc.exe.config
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\vbc.rsp
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe.config
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Antlr3.Runtime.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\AspNet.ScriptManager.jQuery.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Web.Infrastructure.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Newtonsoft.Json.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Owin.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Optimization.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Providers.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\WebGrease.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Optimization.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Newtonsoft.Json.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Antlr3.Runtime.pdb
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Providers.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CoreCompileInputs.cache
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CopyComplete
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.dll
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.pdb
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csprojAssemblyReference.cache
+D:\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Elmah.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csprojAssemblyReference.cache
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CoreCompileInputs.cache
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.pdb
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll.config
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.pdb
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csc.exe
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csc.exe.config
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csc.rsp
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csi.exe
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csi.exe.config
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csi.rsp
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.AppContext.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Collections.Immutable.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Console.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.Pipes.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Reflection.Metadata.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.AccessControl.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Claims.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Principal.Windows.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.ValueTuple.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\vbc.exe
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\vbc.exe.config
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\vbc.rsp
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe.config
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Antlr3.Runtime.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\AspNet.ScriptManager.bootstrap.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\AspNet.ScriptManager.jQuery.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Elmah.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.WebForms.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Web.Infrastructure.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Newtonsoft.Json.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Owin.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Optimization.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Providers.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\WebGrease.dll
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Optimization.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Newtonsoft.Json.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Antlr3.Runtime.pdb
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Providers.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OBUKA\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CopyComplete
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll.config
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.pdb
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csc.exe
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csc.exe.config
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csc.rsp
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csi.exe
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csi.exe.config
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\csi.rsp
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.AppContext.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Console.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Net.Http.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\vbc.exe
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\vbc.exe.config
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\vbc.rsp
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Antlr3.Runtime.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Elmah.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Newtonsoft.Json.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Owin.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Optimization.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Providers.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\WebGrease.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Optimization.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Newtonsoft.Json.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Antlr3.Runtime.pdb
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\System.Web.Providers.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csprojAssemblyReference.cache
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CoreCompileInputs.cache
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CopyComplete
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.dll
+C:\Users\Jasmina\Downloads\ProdavnicaIgracaka - 20.04\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.pdb
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll.config
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.pdb
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csc.exe
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csc.exe.config
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csc.rsp
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csi.exe
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csi.exe.config
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csi.rsp
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.AppContext.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Collections.Immutable.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Console.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Globalization.Calendars.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Net.Http.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Net.Sockets.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Reflection.Metadata.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.ValueTuple.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\vbc.exe
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\vbc.exe.config
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\vbc.rsp
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe.config
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Antlr3.Runtime.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\AspNet.ScriptManager.bootstrap.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\AspNet.ScriptManager.jQuery.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Elmah.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\EntityFramework.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.WebForms.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Web.Infrastructure.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Newtonsoft.Json.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Owin.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\System.Web.Optimization.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\System.Web.Providers.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\WebGrease.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\System.Web.Optimization.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Newtonsoft.Json.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Antlr3.Runtime.pdb
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\EntityFramework.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\System.Web.Providers.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.xml
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csprojAssemblyReference.cache
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CoreCompileInputs.cache
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CopyComplete
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.dll
+G:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.pdb
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll.config
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\ProdavnicaIgracaka.pdb
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csc.exe
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csc.exe.config
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csc.rsp
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csi.exe
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csi.exe.config
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\csi.rsp
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.AppContext.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Collections.Immutable.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Console.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Globalization.Calendars.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Net.Http.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Net.Sockets.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Reflection.Metadata.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.ValueTuple.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\vbc.exe
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\vbc.exe.config
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\vbc.rsp
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\roslyn\VBCSCompiler.exe.config
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Antlr3.Runtime.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\AspNet.ScriptManager.bootstrap.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\AspNet.ScriptManager.jQuery.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Elmah.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\EntityFramework.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.ScriptManager.WebForms.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Web.Infrastructure.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Newtonsoft.Json.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Owin.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\System.Web.Optimization.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\System.Web.Providers.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\WebGrease.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\System.Web.Optimization.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Newtonsoft.Json.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Antlr3.Runtime.pdb
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\EntityFramework.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\EntityFramework.SqlServer.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\System.Web.Providers.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Google.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csprojAssemblyReference.cache
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CoreCompileInputs.cache
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.csproj.CopyComplete
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.dll
+F:\ProdavnicaIgracaka - 20.04 - izmene 02.05\ProdavnicaIgracaka\obj\Debug\ProdavnicaIgracaka.pdb
