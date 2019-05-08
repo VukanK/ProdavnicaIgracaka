@@ -15,12 +15,18 @@
                     </td>
                     <td>&nbsp;</td>
                     <td style="vertical-align: top; text-align: left;">
-                        <b>Opis proizvoda:</b><br /><%#:Item.Description  %>
+                        <b>Opis proizvoda:</b><br />
+                        <%#:Item.Description  %>
                         <br />
                         <span><b>Cena:</b>&nbsp;<%#: String.Format("{0:c}",Item.UnitPrice) %></span>
                         <br />
                         <span><b>Sifra artikla:</b>&nbsp;<%#:Item.ProductID %></span>
                         <br />
+                        <a href="/AddToCart.aspx?ProductID=<%#:Item.ProductID %>">
+                            <span class="ProductListItem">
+                                <b>Dodaj u korpu</b>
+                            </span>
+                        </a>
                     </td>
                 </tr>
             </table>
